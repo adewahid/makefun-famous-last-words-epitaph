@@ -10,7 +10,11 @@ One-line tombstone epitaph for the [Famous Last Words: The Funniest Epitaph](htt
 
 > Here lies a man who finally got the last word. It was "ouch."
 
-`main.mjs` writes that single line (61 characters, no trailing newline) to `/output/entry.txt`.
+`main.ts` writes that single line (61 characters, no trailing newline) to `/output/entry.txt`.
+
+## Why this line
+
+The epitaph works because it lets the dead man win and lose at the same time. "Finally got the last word" sounds like a victory lap — the lifelong arguer, vindicated at last — until the second sentence reveals his triumphant final utterance was just "ouch." The joke needs the tombstone frame to land: carved in stone, the yelp becomes his permanent legacy, which is funnier than any speech he could have planned. Keeping it to one short line also respects the form — a real epitaph is something a passer-by reads in a glance, and the punchline has to hit before the reader walks on.
 
 ## Referral
 
